@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "xzzf.qzz.io"
+baseurl = "https://blog3-aoy.pages.dev/"
 locale  = "en-us"
 title   = "xzzf.qzz.io"
 
