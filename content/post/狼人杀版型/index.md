@@ -1,7 +1,7 @@
 ---
-title: 孔子语录
-date: 0001-09-28
-weight: -9999
+title: 狼人杀版型
+date: 2026-07-16
+weight: 9999
 draft: false
 ---
 
