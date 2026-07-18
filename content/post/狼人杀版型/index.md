@@ -1,5 +1,6 @@
 ---
 title: 狼人杀版型
+description: 作者认为好玩或自己造的版型
 date: 2026-07-16
 weight: 9999
 draft: false
